@@ -1,0 +1,15 @@
+﻿  Digraph.cpp
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(120,18): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(53,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(48): message : while compiling class template member function 'void Graph<int>::Dijkstra(int)'
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(121): message : see reference to function template instantiation 'void Graph<int>::Dijkstra(int)' being compiled
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(110): message : see reference to class template instantiation 'Graph<int>' being compiled
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(66,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(40,32): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(39): message : while compiling class template member function 'void Graph<int>::addEdge(int,int,int)'
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(112): message : see reference to function template instantiation 'void Graph<int>::addEdge(int,int,int)' being compiled
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(40,69): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(97,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(94): message : while compiling class template member function 'int Graph<int>::minDistance(const std::vector<int,std::allocator<int>> &,const std::vector<bool,std::allocator<bool>> &)'
+C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Digraph\Digraph.cpp(54): message : see reference to function template instantiation 'int Graph<int>::minDistance(const std::vector<int,std::allocator<int>> &,const std::vector<bool,std::allocator<bool>> &)' being compiled
+  Digraph.vcxproj -> C:\Users\Lenovo\OneDrive\Рабочий стол\Algorithms\Digraph\Debug\Digraph.exe
